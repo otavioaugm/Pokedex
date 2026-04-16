@@ -1,4 +1,4 @@
-Pokédex feita com a ajuda da PokeAPI e baseada no projeto do canal "ManualDoDev" no YouTube.
+Pokédex interativa desenvolvida com base no projeto do canal ManualDoDev, consumindo dados em tempo real da API pública PokéAPI. A aplicação permite buscar e visualizar diferentes Pokémon em formato de GIF.
 
 Link da API: https://pokeapi.co/
 
